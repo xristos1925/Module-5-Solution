@@ -2,8 +2,8 @@
 
 🔶 <a href="https://www.coursera.org/learn/html-css-javascript-for-web-developers">HTML, CSS, and Javascript for Web Developers</a>
 
-<img src="https://raw.githubusercontent.com/xristos1925/Module-5-Solution/Coursera/Module%205.PNG">
-<img src="https://raw.githubusercontent.com/xristos1925/Module-5-Solution/Coursera/Module%205(2).PNG">
+<img src="https://github.com/xristos1925/Module-5-Solution/blob/Coursera/Module 5.PNG">
+<img src="https://github.com/xristos1925/Module-5-Solution/blob/Coursera/Module 5(2).PNG">
 
 
 
